@@ -32,8 +32,6 @@ jobs:
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-snake.svg">
             <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-snake.svg">
             </picture>
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
