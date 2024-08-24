@@ -1,5 +1,4 @@
 name: generate animation
-
 on:
   # run automatically every 24 hours
   schedule:
@@ -10,10 +9,8 @@ on:
   
   # run on every push on the master branch
   push:
-    branches:
+    branches: 
     - master
-    
-  
 
 jobs:
   generate:
