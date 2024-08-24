@@ -23,3 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burhankaratoprak&" alt="burhankaratoprak" /></p>
 
+
+![snake gif](https://github.com/burhankaratoprak/burhankaratoprak/blob/output/github-contribution-grid-snake.gif)
+
