@@ -1,7 +1,3 @@
-
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWwyeWU5d3BkMzJjcHFnaGtsOW9zemtvcjJrcmVjaDNvNjcxZTk3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hzWC7lYKSoQ6ULr6js/giphy.gif)
-
-
 <h1 align="center">Hi 👋, I'm Burhan Karatoprak</h1>
 <h3 align="center">A passionate information system engineering student from türkiye</h3>
 <img src = 'https://github.com/kker4m/kker4m/blob/main/images/myLifeLoop.gif' alt = 'My Life Loop' width='350' align='right'/>
