@@ -1,4 +1,4 @@
-<img src = 'https://github.com/kker4m/kker4m/blob/main/images/myLifeLoop.gif' alt = 'My Life Loop' width='350' align='right'/>
+</br><img src = 'https://github.com/kker4m/kker4m/blob/main/images/myLifeLoop.gif' alt = 'My Life Loop' width='350' align='right'/>
 <h1 align="center">Hi 👋, I'm Burhan Karatoprak</h1>
 <h3 align="center">A passionate information system engineering student from türkiye</h3>
 
