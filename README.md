@@ -67,6 +67,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-cat-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-cat.svg">
-    <img alt="Cat playing with yarn ball - contribution grid animation" src="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-cat.svg">
+    <img alt="Cat playing with yarn ball - contribution grid animation" src="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-cat.svg" width="100%" height="200">
   </picture>
 </div>
