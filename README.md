@@ -40,6 +40,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -58,10 +61,12 @@
 
 ---
 
+### 🐱 Cat Playing with Yarn Ball
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-cat-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-cat.svg">
+    <img alt="Cat playing with yarn ball - contribution grid animation" src="https://raw.githubusercontent.com/burhankaratoprak/burhankaratoprak/output/github-contribution-grid-cat.svg">
   </picture>
 </div>
