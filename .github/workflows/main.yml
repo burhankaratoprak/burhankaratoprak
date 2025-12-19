@@ -1,45 +1,32 @@
-name: generate animation
+name: Generate Snake
 
 on:
-  # run automatically every 24 hours
+  push:          # her push’ta çalışsın
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 3 * * *"   # opsiyonel: günlük
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    
-  
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      contents: write
-    
     steps:
-      - uses: actions/checkout@v3
-      
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: burhankaratoprak
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Commit and push to main
+      - name: Commit & push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          git diff --staged --quiet || git commit -m "Update contribution grid snake animation"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake*.svg
+          git commit -m "chore: update snake svg" || exit 0
           git push
