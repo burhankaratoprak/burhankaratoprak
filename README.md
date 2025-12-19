@@ -26,21 +26,6 @@
 
 ---
 
-## 📌 Öne Çıkan Projelerim
-
-🎮 **[Proje Adı 1](https://github.com/burhankaratoprak/PROJE_ADI)**
-- **Detay:** Projenin kısa açıklaması buraya gelecek.
-- **Kullanılan Teknolojiler:** Unity, C#
-
-💾 **[Proje Adı 2](https://github.com/burhankaratoprak/PROJE_ADI)**
-- **Detay:** Projenin kısa açıklaması buraya gelecek.
-- **Kullanılan Teknolojiler:** C#, MySQL
-
-🐍 **[Proje Adı 3](https://github.com/burhankaratoprak/PROJE_ADI)**
-- **Detay:** Projenin kısa açıklaması buraya gelecek.
-- **Kullanılan Teknolojiler:** Python
-
----
 
 ## 🌐 Bağlantılarım
 
