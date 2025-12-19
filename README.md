@@ -1,22 +1,28 @@
 <div align="center">
   <img src="https://github.com/kker4m/kker4m/blob/main/images/myLifeLoop.gif" alt="My Life Loop" width="350"/>
-  
-  <h1>Hi 👋, I'm Burhan Karatoprak</h1>
-  
-  <h3>A passionate information system engineering student from Türkiye</h3>
+
+  <h1>Merhaba 👋, ben Burhan Karatoprak</h1>
+  <h3>Türkiye’den tutkulu bir bilgi sistemleri mühendisliği öğrencisi</h3>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working on **C#**
-- 📧 How to reach me: **burhankaratoprak09@gmail.com**
+### 👨‍💻 Hakkımda
+- 🔭 Şu anda **C#** projeleri üzerinde çalışıyorum.
+- 🎯 İlgi alanlarım: oyun geliştirme (Unity), veri tabanı uygulamaları, basit otomasyonlar.
+- 💡 Öğrenmeye açık olduğum konular: .NET ekosistemi, modern OOP desenleri, veri yapıları ve algoritmalar.
+- 📧 Bana ulaşın: **burhankaratoprak09@gmail.com**
 
 ---
 
-### 🤝 Connect with Me
+### 🚀 Projelerim
+- (Buraya aktif projelerinizi ekleyin; örn. “Yılan Oyunu (C# WinForms) – [repo linki]”)
+- (Örn. “Unity ile 2D platformer denemesi – [repo linki]”)
+- (Örn. “MySQL ile stok takip mini uygulaması – [repo linki]”)
 
+---
+
+### 🤝 Benimle İletişime Geçin
 <p align="left">
   <a href="https://www.linkedin.com/in/burhan-karatoprak-723865251/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burhankaratoprak" height="30" width="40" />
@@ -25,8 +31,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
-
+### 🛠️ Diller ve Araçlar
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -47,16 +52,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub İstatistikleri
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=burhankaratoprak&show_icons=true&locale=en&layout=compact&theme=transparent" alt="burhankaratoprak" />
-  
   <img src="https://github-readme-stats.vercel.app/api?username=burhankaratoprak&show_icons=true&locale=en&theme=transparent" alt="burhankaratoprak" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=burhankaratoprak&theme=transparent" alt="burhankaratoprak" />
-  
 </div>
 
 ---
